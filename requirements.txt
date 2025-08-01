@@ -1,2 +1,5 @@
 aiogram==2.25.2
 python-dotenv
+aiohttp==3.9.5
+setuptools>=65.5.0
+wheel>=0.38.4
